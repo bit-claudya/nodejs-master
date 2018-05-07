@@ -1,0 +1,35 @@
+{
+  "name": "nodejs-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bit-claudya/nodejs-master.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bit-claudya/nodejs-master/issues"
+  },
+  "homepage": "https://github.com/bit-claudya/nodejs-master#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.3",
+    "express-session": "^1.15.6",
+    "express-validator": "^5.1.2",
+    "jsonwebtoken": "^8.2.1",
+    "mysql2": "^1.5.3",
+    "nodemon": "^1.17.4",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "sequelize": "^4.37.7",
+    "sequelize-cli": "^4.0.0"
+  }
+}
